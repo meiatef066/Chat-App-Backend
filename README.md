@@ -160,6 +160,7 @@ Or via your IDE (IntelliJ, Eclipse)
 * **Message**: Chat messages.
 * **Contact**: Friend request/relationship.
 
+![Image](https://github.com/user-attachments/assets/bf9242ab-470a-4b61-820a-ade09d29bdf3)
 ---
 
 ##  Security
