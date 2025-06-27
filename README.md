@@ -45,9 +45,9 @@ Or via your IDE (IntelliJ, Eclipse)
 
 ---
 
-## 🔎 API Reference
+## API Reference
 
-### 🔑 Authentication
+### Authentication
 
 **POST** `/api/auth/register`
 
@@ -58,7 +58,7 @@ Or via your IDE (IntelliJ, Eclipse)
   "firstName": "sofia",
   "lastName": "yussef",
   "email": "sofia@gmail.com",
-  "password": "123456"
+  "password": "123456732231"
 }
 ```
 
@@ -69,7 +69,7 @@ Or via your IDE (IntelliJ, Eclipse)
 ```json
 {
   "email": "sofia@gmail.com",
-  "password": "123456"
+  "password": "123456732231"
 }
 ```
 
@@ -178,12 +178,7 @@ Or via your IDE (IntelliJ, Eclipse)
 
 ---
 
-## 💼 Author
+## Author
 
 **Mai Atef Elkheshen**
 
----
-
-## ✅ License
-
-MIT License
